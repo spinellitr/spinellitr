@@ -8,7 +8,7 @@ You can find more information about my work on [LinkedIn](https://www.linkedin.c
 
                 -I'm a yoga teacher, and I taught at Hilltop Lakeview in Chicago for about 5 years.
                 
-                -I *love* backpacking and have climbed the Lemosho trek to Kilimanjaro and the Salcantay trek to Machu Picchu. 
+                -I *love* backpacking and climbed the Lemosho trek to Kilimanjaro and the Salcantay trek to Machu Picchu. 
                 
                 -I've lived in Cleveland, Nashville, Anaikatti, Denver, Chicago, and Honolulu.   :) 
                 
