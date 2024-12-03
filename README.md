@@ -1,16 +1,15 @@
-## Hi there 👋
+##Thank you for visiting my page.
 
-<!--
-**spinellitr/spinellitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Researcher and Data Scientist who designs and implements studies and performs statistical modeling in R. For several years, I have been working with big, messy data sets from state government and using analyses to make data-driven recommendations to improve efficiency and outcomes for individuals accessing state services. 
 
-Here are some ideas to get you started:
+You can find more information about my work on [LinkedIn](https://www.linkedin.com/in/tawny-spinelli-a6894658/) and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=AT8r0asAAAAJ). To reach me, feel free to send me a message on LinkedIn. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun facts:
+
+                -I'm a yoga teacher, and I taught at Hilltop Lakeview in Chicago for about 5 years.
+                
+                -I *love* backpacking and have climbed the Lemosho trek to Kilimanjaro and the Salcantay trek to Machu Picchu. 
+                
+                -I've lived in Cleveland, Nashville, Anaikatti, Denver, Chicago, and Honolulu.   :) 
+                
+
