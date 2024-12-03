@@ -1,4 +1,4 @@
-PEER-REVIEWED PUBLICATIONS
+PEER-REVIEWED PUBLICATIONS 
 
 **Spinelli, T.**, Bruckner, E., Jordan, N., & Kisiel, C. (2023). Trauma is only part of the story: Strengths
 moderate the relationship between trauma and needs for older youth in foster care. Journal of
